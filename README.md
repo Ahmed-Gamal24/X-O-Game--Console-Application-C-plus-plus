@@ -1,4 +1,4 @@
-# X-O Game
+# X-O (Tic-Tac-Toe) Game
 
 Welcome to the X-O Game! This project is a demonstration of basic C++ concepts applied to create a simple yet fun game. 
 
@@ -22,11 +22,11 @@ Welcome to the X-O Game! This project is a demonstration of basic C++ concepts a
    
 2. Navigate to the project directory:
     ```sh
-    cd x-o-game
+    cd X-O-Game--Console-Application-C-plus-plus
 
 3. Compile the game:
     ```sh
-    g++ -o xo_game xo_game.cpp
+    g++ -o x-o_game X-O_Game.cpp
 
 ### Usage 
 - Run the game:
