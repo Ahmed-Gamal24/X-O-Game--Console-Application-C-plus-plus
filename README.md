@@ -25,13 +25,19 @@ Welcome to the X-O Game! This project is a demonstration of basic C++ concepts a
     cd X-O-Game--Console-Application-C-plus-plus
 
 3. Compile the game:
-    ```sh
-    g++ -o x-o_game X-O_Game.cpp
+     ```sh
+     g++ -o x-o_game X-O_Game.cpp
+    
 
 ### Usage 
 - Run the game:
-    ```sh 
+  - Unix(Linux or MacOs)
+    ```sh
     ./x-o_game
+     
+  - Windows
+    ```sh
+    x-o_game.exe
 
 ### Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code adheres to the project's coding standards.
