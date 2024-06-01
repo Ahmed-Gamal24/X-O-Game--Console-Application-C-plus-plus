@@ -18,7 +18,7 @@ Welcome to the X-O Game! This project is a demonstration of basic C++ concepts a
 1. Clone the repository:
    ```sh
    
-   git clone https://github.com/Ahmed-Gamal-0/X-O-Game--Console-Application-C-plus-plus/X-O_Game.git
+   git clone https://github.com/Ahmed-Gamal-0/X-O-Game--Console-Application-C-plus-plus.git
    
 2. Navigate to the project directory:
     ```sh
