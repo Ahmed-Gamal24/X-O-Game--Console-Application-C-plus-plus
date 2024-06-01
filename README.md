@@ -19,11 +19,9 @@ Welcome to the X-O Game! This project is a demonstration of basic C++ concepts a
    ```sh
    
    git clone https://github.com/Ahmed-Gamal-0/X-O-Game--Console-Application-C-plus-plus.git
-   
 2. Navigate to the project directory:
     ```sh
     cd X-O-Game--Console-Application-C-plus-plus
-
 3. Compile the game:
      ```sh
      g++ -o x-o_game X-O_Game.cpp
@@ -34,7 +32,6 @@ Welcome to the X-O Game! This project is a demonstration of basic C++ concepts a
   - Unix(Linux or MacOs)
     ```sh
     ./x-o_game
-     
   - Windows
     ```sh
     x-o_game.exe
