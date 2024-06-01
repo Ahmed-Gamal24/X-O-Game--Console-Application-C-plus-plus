@@ -27,7 +27,7 @@ Welcome to the X-O Game! This project is a demonstration of basic C++ concepts a
      g++ -o x-o_game X-O_Game.cpp
 ### Usage 
 - Run the game:
-  - Unix(Linux or MacOs)
+  - Unix (Linux or MacOs)
     ```sh
     ./x-o_game
   - Windows
