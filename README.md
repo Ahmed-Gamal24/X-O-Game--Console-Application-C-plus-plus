@@ -37,8 +37,6 @@ Welcome to the X-O Game! This project is a demonstration of basic C++ concepts a
 ### Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code adheres to the project's coding standards.
 
-### License
-This project is licensed under the MIT License 
 
 
 ## Demonstration Video
